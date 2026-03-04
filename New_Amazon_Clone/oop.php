@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="oops1.css">
+</head>
+<body>
+    <div class="main">
+           <p> Wrong OTP</p>
+    </div>
+      <div class="title5">
+                 <p><a href="signin.php">Resend OTP</a></p>
+         </div>
+</body>
+</html>

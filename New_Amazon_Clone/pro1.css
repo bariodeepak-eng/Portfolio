@@ -1,0 +1,81 @@
+*{
+   margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  
+}
+.title{
+  position: relative;
+  top: 20px;
+  left: 800px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  
+}
+.main{
+ position: relative;
+ left: 600px;
+  height: 400px;
+  background-color: white;
+  width: 500px;
+ 
+  top: 90px;
+ 
+ border: 1px solid rgb(17, 16, 16);
+ border-radius: 12px;
+
+}
+.main p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  color: rgb(20, 20, 20);
+  position: relative;
+  left: 30px;
+  top: 70px;
+}
+.main input{
+  height: 30px;
+  width: 350px;
+  position: relative;
+  top: 50px;
+  left: 130px;
+  border-radius: 8px;
+}
+
+.main .btn button{
+  position: relative;
+  top: 130px;
+  width: 250px;
+  height: 30px;
+  left: 130px;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  color: rgb(23, 22, 22);
+  background-color: rgb(252, 236, 13);
+  border: none;
+  font-weight: 700;
+}
+
+.title1 {
+  position: relative;
+  top: 150px;
+  background-color: rgb(252, 236, 13);
+  height: 40px;
+  width: 400px;
+  left:50px;
+   border-radius: 20px;
+}
+.title1 p{
+    position: relative;
+    text-align: center;
+  top: 10px;
+  left:18px;
+   font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}

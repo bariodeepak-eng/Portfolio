@@ -1,0 +1,106 @@
+*{
+   margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  
+}
+body{
+    height: 600%;
+    width: 100%;
+    background-color: white;
+}
+.main{
+     height: 400px;
+     width: 400px;
+    background-color: white;
+ position: relative;
+ top: 60px;
+ left: 600px;
+ border: 2px solid rgb(181, 177, 177);
+ border-radius: 8px;
+}
+.title1 p{
+     font-family:  Arial, sans-serif;
+       font-weight: 560;
+       font-size: 21px;
+       position: relative;
+       top: 23px;
+       left: 35px;
+}
+.title2 p{
+    position: relative;
+    top: 35px;
+    left: 35px;
+   font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
+     font-size: 16px;
+}
+.input{
+    position: relative;
+    top: 50px;
+    left: 35px;
+    font-size: large;
+ 
+}
+.input .input1{
+    height: 30px;
+    width: 330px;
+   border-radius: 5px;
+  border: 3.8px solid rgb(84, 199, 244);
+}
+.title3 p{
+  cursor: pointer;
+ 
+}
+.title3 a{
+  text-decoration: none;
+  color: black;
+}
+.title3 p{
+    height: 30px;
+    position: relative;
+    top: 67px;
+    width: 335px;
+    background-color: rgb(252, 236, 13);
+    left: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+  border-radius: 20px;
+}
+.title4 p{
+         position: relative;
+         top: 90px;
+         left: 40px;
+         font-size: large;
+         font-weight: 600;
+         font-style: normal;
+         font-family: Arial, Helvetica, sans-serif;
+}
+.title5 p{
+  position: relative;
+  top: 130px;
+  left: 40px;
+  font-size: larger;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.title5 a{
+  text-decoration: none;
+}
+.logo .im1{
+  position: relative;
+   background-size: cover;
+    height: 55px;
+    width: 100px;
+    cursor: pointer;
+    top: 40px;
+    left: 750px;
+    border-radius: 10px;
+}
+.logo p{
+  font-family: Arial, Helvetica, sans-serif;
+}
